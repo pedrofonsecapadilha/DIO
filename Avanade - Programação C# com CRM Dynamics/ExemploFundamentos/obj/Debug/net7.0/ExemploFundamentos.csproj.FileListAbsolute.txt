@@ -1,0 +1,14 @@
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.deps.json
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.runtimeconfig.json
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.dll
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.pdb
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.AssemblyInfoInputs.cache
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.AssemblyInfo.cs
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.csproj.CoreCompileInputs.cache
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.dll
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/refint/ExemploFundamentos.dll
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.pdb
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ExemploFundamentos.genruntimeconfig.cache
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/obj/Debug/net7.0/ref/ExemploFundamentos.dll
