@@ -8,7 +8,7 @@ namespace ExemploFundamentos.Models
     public class Pessoa
     {
         // Atributos
-        public string Nome { get; set; }
+        public required string Nome { get; set; }
         public int Idade { get; set; }
 
         // Métodos ou Função
