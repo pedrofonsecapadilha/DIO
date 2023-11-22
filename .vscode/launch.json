@@ -12,7 +12,7 @@
             "program": "${workspaceFolder}/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos/bin/Debug/net7.0/ExemploFundamentos.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Avanade - Programação C# com CRM Dynamics/ExemploFundamentos",
-            "console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
