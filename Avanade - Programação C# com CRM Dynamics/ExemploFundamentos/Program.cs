@@ -18,15 +18,15 @@
 //     Console.WriteLine(valor);
 // }
 
-List<string> exemplo = new List<string>();
-exemplo.Add("SP");
-exemplo.Add("MG");
-exemplo.Add("BA");
+// List<string> exemplo = new List<string>();
+// exemplo.Add("SP");
+// exemplo.Add("MG");
+// exemplo.Add("BA");
 
-foreach(string item in exemplo)
-{
-    Console.WriteLine(item);
-}
+// foreach(string item in exemplo)
+// {
+//     Console.WriteLine(item);
+// }
 
 // Exercícios - Conhecendo as Estruturas de Repetição em C#
 
