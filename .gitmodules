@@ -1,0 +1,6 @@
+[submodule "Avanade - Programação C# com CRM Dynamics/dio-lab-open-source"]
+	path = "Avanade - Programação C# com CRM Dynamics/dio-lab-open-source"
+	url = git@github.com:pedrofonsecapadilha/dio-lab-open-source.git
+[submodule "Avanade - Programação C# com CRM Dynamics/trilha-net-fundamentos-desafio"]
+	path = "Avanade - Programação C# com CRM Dynamics/trilha-net-fundamentos-desafio"
+	url = git@github.com:pedrofonsecapadilha/trilha-net-fundamentos-desafio.git

@@ -1,0 +1,14 @@
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.AssemblyInfoInputs.cache
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.AssemblyInfo.cs
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.csproj.CoreCompileInputs.cache
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.deps.json
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.runtimeconfig.json
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.dll
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/bin/Debug/net7.0/ExemploExplorando.pdb
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.dll
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/refint/ExemploExplorando.dll
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.pdb
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ExemploExplorando.genruntimeconfig.cache
+/home/pedropadilha/code/DIO/Avanade - Programação C# com CRM Dynamics/ExemploExplorando/obj/Debug/net7.0/ref/ExemploExplorando.dll
